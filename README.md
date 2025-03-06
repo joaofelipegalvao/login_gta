@@ -27,4 +27,4 @@ Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 
 ## 🌆 Demonstração do Projeto
 
-![Preview do Formulário](https://i.postimg.cc/7CDGr6m1/image.png)
+![Preview do Formulário](https://i.postimg.cc/g0LvRLh7/screenshot-06032025-113338.jpg)
